@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Student Management System**
 
-- 🌱 I’m currently learning **Angular**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Heena164](https://github.com/Heena164)
 
 - 💬 Ask me about **Python, Django, Flask, SQl, JavaScript**
