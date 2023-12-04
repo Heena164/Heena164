@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Heena Shaikh</h1>
+<h1 align="center">Hi 👋, I'm Heena</h1>
 <h3 align="center">A passionate python developer from India</h3>
 <image align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 
